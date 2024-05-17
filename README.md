@@ -46,7 +46,8 @@ plt.show()
 ```
 ## Output
 
-![216226385-2c1b11e0-33f9-4c05-a6eb-e25fa3f8f829](https://github.com/Gokul1410/Univariate-Linear-Regression/assets/153058321/7404bd47-8e6c-4af3-8ed8-e23b0dbd2aee)
+![Screenshot 2024-05-17 093351](https://github.com/Gokul1410/Univariate-Linear-Regression/assets/153058321/ac0a15d8-0497-4aa5-8e70-65ebc3894e32)
+
 ![216226396-d73caaf5-30d7-4ced-837c-03c056714da8](https://github.com/Gokul1410/Univariate-Linear-Regression/assets/153058321/a55d4fb3-51ef-4d12-8b93-af000e6ebd47)
 ![216226416-e476b56d-92b5-4ad1-8fcf-751adc00de30](https://github.com/Gokul1410/Univariate-Linear-Regression/assets/153058321/8c4c36b7-26be-4cca-b85a-784819054267)
 
